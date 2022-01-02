@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📖 Miscellaneous Blog: [sawa.md](https://sawatszm.github.io/)
+📖 Miscellaneous Blog: [sawa.md](https://sawatszm.github.io/tags/tech/)
