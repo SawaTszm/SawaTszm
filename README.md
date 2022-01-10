@@ -17,5 +17,9 @@ Here are some ideas to get you started:
 
 📖 Miscellaneous Blog: [sawa.md](https://sawatszm.github.io/tags/tech/)
 
-[![my github stats](https://github-readme-stats.vercel.app/api?username=SawaTszm&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/SawaTszm/)
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SawaTszm&layout=compact&theme=tokyonight)](https://github.com/SawaTszm/)
+<a href="https://github.com/SawaTszm">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=SawaTszm&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/SawaTszm">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SawaTszm&layout=compact&theme=dracula" />
+</a>
