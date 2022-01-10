@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 📖 Miscellaneous Blog: [sawa.md](https://sawatszm.github.io/tags/tech/)
 
 <a href="https://github.com/SawaTszm">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=SawaTszm&count_private=true&show_icons=true&theme=onedark" />
+  <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=SawaTszm&count_private=true&show_icons=true&theme=onedark" />
 </a>
 <a href="https://github.com/SawaTszm">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SawaTszm&hide=javascript,css,scss,html&layout=compact&theme=onedark" />
+  <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SawaTszm&hide=javascript,css,scss,html&layout=compact&theme=onedark" />
 </a>
