@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 📖 My Miscellaneous Blog: [sawa.md](https://sawatszm.github.io/tags/tech/)
 - 🌱 I’m currently learning frontend from the ground up.
-- 💙 I love cats, reptiles and games.
+- 💙 I love cats, reptiles and playing games.
 
 <a href="https://app.daily.dev/sawatszm"><img src="https://github.com/sawatszm/sawatszm/blob/main/devcard.svg" width="300" alt="Sawa's Dev Card"/></a>
 <div flex>
