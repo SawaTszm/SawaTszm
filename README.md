@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📖 My Blog: [sawa.md](https://sawatszm.github.io/tags/tech/)
 - 📚 I'm involved in translation activities on TranslateWiki and Transifex.
 - 🌱 I’m currently learning frontend from the ground up.
 - 💙 I love cats, reptiles and playing games.
+- 📖 My Blog: [sawa.md](https://sawatszm.github.io/tags/tech/)
 
 <a href="https://app.daily.dev/sawatszm"><img src="https://github.com/sawatszm/sawatszm/blob/main/devcard.svg" width="300" alt="Sawa's Dev Card"/></a>
 <div flex>
