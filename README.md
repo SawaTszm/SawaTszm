@@ -20,9 +20,19 @@ Here are some ideas to get you started:
 - 💙 I love cats, reptiles and playing games.
 - 📖 My Blog: [sawa.md](https://sawatszm.github.io/tags/tech/)
 
+<details>
+  <summary>:zap: My daily.dev Card</summary>
+
 <a href="https://app.daily.dev/sawatszm"><img src="https://github.com/sawatszm/sawatszm/blob/main/devcard.svg" width="300" alt="Sawa's Dev Card"/></a>
+
+</details>    
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
 <div flex>
     <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=SawaTszm&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
     <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SawaTszm&hide=javascript,css,scss,html&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </div>
+
+</details>
