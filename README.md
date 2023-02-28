@@ -15,10 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📚 I'm involved in translation activities on TranslateWiki and Transifex.
-- 🌱 I’m currently learning frontend from the ground up.
-- 💙 I love cats, reptiles and playing games.
-- 📖 My Blog: [sawa.md](https://sawatszm.github.io/tags/tech/)
+<a href="https://wakatime.com/@8a4e534e-f3e0-4087-a6ab-c2bd5455dd73"><img src="https://wakatime.com/badge/user/8a4e534e-f3e0-4087-a6ab-c2bd5455dd73.svg" alt="Total time coded since Feb 28 2023" /></a>
+
+<!-- - 📚 I'm involved in translation activities on TranslateWiki and Transifex. -->
+<!-- - 📖 My Blog: [sawa.md](https://sawatszm.github.io/tags/tech/) -->
+
+- 💻 I'm Web application developer.
+- 🌱 I’m currently learning Flutter(Dart) & Go.
+- 💙 I love cats, reptiles, coffee and playing games.
 
 <details>
   <summary>:zap: My daily.dev Card</summary>
