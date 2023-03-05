@@ -25,13 +25,6 @@ Here are some ideas to get you started:
 - 💙 I love cats, reptiles, coffee and playing games.
 
 <details>
-  <summary>:zap: My daily.dev Card</summary>
-
-<a href="https://app.daily.dev/sawatszm"><img src="https://github.com/sawatszm/sawatszm/blob/main/devcard.svg" width="300" alt="Sawa's Dev Card"/></a>
-
-</details>    
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -42,3 +35,11 @@ Here are some ideas to get you started:
 </a>
 
 </details>
+
+
+<details>
+  <summary>:zap: Daily.dev Card</summary>
+
+<a href="https://app.daily.dev/sawatszm"><img src="https://github.com/sawatszm/sawatszm/blob/main/devcard.svg" width="300" alt="Sawa's Dev Card"/></a>
+
+</details>    
