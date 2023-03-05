@@ -34,9 +34,11 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<div flex>
-    <img alt="github stats" height="150px" src="https://github-readme-stats-sawatszm.vercel.app/api?username=SawaTszm&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-    <img alt="Top Langs" height="150px" src="https://github-readme-stats-sawatszm.vercel.app/api/top-langs/?username=SawaTszm&hide=javascript,css,scss,html,cMake,C%2B%2B&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="150px" src="https://github-readme-stats-sawatszm.vercel.app/api?username=SawaTszm&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="150px" src="https://github-readme-stats-sawatszm.vercel.app/api/top-langs/?username=SawaTszm&hide=javascript,css,scss,html,cMake,C%2B%2B&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+</a>
 
 </details>
